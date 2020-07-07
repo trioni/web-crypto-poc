@@ -1,0 +1,9 @@
+.App {
+  width: 640px;
+  margin: 4rem auto;
+}
+
+.row {
+  display: flex;
+}
+
