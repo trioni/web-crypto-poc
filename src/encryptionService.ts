@@ -68,7 +68,7 @@ export const encryptionService: EncryptionService = {
         name: 'RSA-OAEP',
         hash: 'SHA-256'
       },
-      true,
+      false,
       ['encrypt']
     );
   },
